@@ -1,2 +1,2 @@
-# CNC.Repo
-Repositorio para documentación de CNC 
+# Repo
+Repositorio para codigos del lab de robotica
